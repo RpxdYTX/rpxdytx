@@ -11,7 +11,7 @@
  As i was saying, i was trying to make a game,
  that would finally be good at my eyes (not
  saying that the games i played were bad, they
- just wasn't enough), that would be perfect.<br/>
+ just weren't enough), that would be perfect.<br/>
  Then i faced one challenge, coding, i just
  googled my question which was: "*how to make
  a game?*", a quick solution i found was Unity,
