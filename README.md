@@ -16,7 +16,7 @@
  googled my question which was: "*how to make
  a game?*", a quick solution i found was Unity,
  After it, somehow (i still don't remember how,
- even though it was 2 years ago, no so long) i
+ even though it was 2 years ago, not so long) i
  "*learned*" what is a programming language and
  i googled: "*what programming language i need
  to use Unity?*", then, where it all started, a
